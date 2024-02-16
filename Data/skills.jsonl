@@ -1,0 +1,84 @@
+{"label": "SKILL", "pattern": [{"LOWER":"python"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "java"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "c++"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "javascript"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "html"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "css"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "sql"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "nosql"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "react.js"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "angular.js"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "vue.js"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "node.js"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "express.js"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "django"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "flask"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "ruby"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "ruby on rails"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "php"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "laravel"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "symfony"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "wordpress"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "drupal"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "swift"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "kotlin"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "objective-c"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "flutter"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "dart"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "tensorflow"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "pytorch"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "keras"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "scikit-learn"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "pandas"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "numpy"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "matplotlib"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "seaborn"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "plotly"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "bokeh"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "d3.js"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "mongodb"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "redis"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "elasticsearch"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "postgresql"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "mysql"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "sqlite"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "amazon web services (aws)"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "microsoft azure"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "google cloud platform (gcp)"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "docker"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "kubernetes"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "ci/cd"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "git"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "jenkins"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "ansible"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "terraform"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "linux"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "unix"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "windows server"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "networking"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "cybersecurity"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "machine learning"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "deep learning"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "artificial intelligence (ai)"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "natural language processing (nlp)"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "computer vision"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "data mining"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "data visualization"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "big data"}]}
+{"label": "SKILL", "pattern": [{"LOWER":"data engineering"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "data science"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "business intelligence (bi)"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "agile methodologies"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "scrum"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "lean startup"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "project management"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "leadership"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "communication"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "problem solving"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "teamwork"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "time management"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "creativity"}]}
+{"label": "SKILL", "pattern": [{"LOWER": "adaptability"}]}
+{"label": "PHONE_NUMBER", "pattern": [{"SHAPE": "dd"},{"ORTH": "-", "OP": "?"},{"SHAPE": "ddd"},{"ORTH": "-", "OP": "?"},{"SHAPE": "dddd"}]}
+{"label": "PHONE_NUMBER", "pattern": [{"SHAPE": "ddd"},{"ORTH": "-", "OP": "?"},{"SHAPE": "ddd"},{"ORTH": "-", "OP": "?"},{"SHAPE": "dddd"}]}
+
